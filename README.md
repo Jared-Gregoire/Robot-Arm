@@ -17,4 +17,3 @@ Part List:
  - Arduino Uno micro controller
  - CNC Shield V3 - Open source stepper motor driver
  - Limit switches repurposed from 3D printer
- - 
