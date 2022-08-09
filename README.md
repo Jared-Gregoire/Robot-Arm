@@ -1,5 +1,5 @@
 # Project Tony Stark
-A repository of all my resources and details for the first iteration of the robot arm I am desiging.
+A repository of all my resources and details for the first iteration of the robot arm I am designing.
 This repository is being used for documentation of my learning process over the course of this project.
 
 
