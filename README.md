@@ -1,5 +1,6 @@
 # Project Tony Stark
-A repository of all my resources and details for the first iteration of the robot arm I am creating
+A repository of all my resources and details for the first iteration of the robot arm I am desiging.
+This repository is being used for documentation of my learning process over the course of this project.
 
 
 Main Objectives:
@@ -23,3 +24,4 @@ To-Do:
 - Assess torque capabilities of motors.
 - 3D print prototype of planetary gearbox.
 - Redesign Mk. 2 to be lightweight and faster to print.
+- Design a new PCB circuit-board using Altium to drive the stepper motors instead of an off the shelf board.
