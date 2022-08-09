@@ -22,4 +22,4 @@ Part List:
 To-Do:
 - Assess torque capabilities of motors.
 - 3D print prototype of planetary gearbox.
-- 
+- Redesign Mk. 2 to be lightweight and faster to print.
